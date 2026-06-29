@@ -2,7 +2,7 @@
 {
   "versionCode": 2,
   "versionName": "1.1",
-  "downloadUrl": "https://github.com/amrutanshupandadeveloper/music-distribution/releases/download/v1.1/music_update.apk",
+  "downloadUrl": "https://github.com/amrutanshupandadeveloper/music-distribution/releases/download/Music_App_Initial_Release_v2.2/music.apk",
   "releaseNotes": "What's New:\n- Dynamic folder colors based on background\n- High-speed de-throttled downloads\n- Added In-app Update system\n- Bug fixes and performance improvements",
   "forceUpdate": true
 }
