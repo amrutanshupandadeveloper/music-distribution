@@ -3,6 +3,22 @@
   "versionCode": 3,
   "versionName": "3.1.3",
   "downloadUrl": "https://github.com/amrutanshupandadeveloper/music-distribution/releases/download/v3.1.3/Muisc.v3.1.3.apk",
-  "releaseNotes": "What's New:\n- Dynamic folder colors based on background\n- High-speed de-throttled downloads\n- Added In-app Update system\n- Bug fixes and performance improvements",
+  "releaseNotes": "What's New:\n- Dynamic folder colors based on background\n- High-speed de-throttled downloads\n- Added In-app Update system\n- Bug fixes and performance improvementsMusic App Initial Release v3.1.3 #force
+
+🎵 What's New in v3.1.3
+We've polished the app to make your music experience smoother and more beautiful! Here is what's changed:
+
+🛡️ Smarter Permission Handling: A new, beautiful permission screen to help you manage Media and Notification access easily.
+
+⏩ 'Skip for now' Option: You can now skip the permission screen and dive straight into your music. We’ll only ask for system permissions when necessary.
+
+🎨 Dynamic Design: The permission page now features a dynamic background that matches your music's artwork, keeping the UI consistent and premium.
+
+🚀 Better Stability: Fixed several critical crashes (including the lateinit errors) to ensure the app runs perfectly every time you open it.
+
+⚙️ Background Improvements: Optimized background services for Widgets, Playback, and Downloads for a lag-free experience.
+
+🐛 Bug Fixes: Squashed minor bugs to improve overall performance.
+Enjoying the app? Keep the feedback coming! 🎧✨",
   "forceUpdate": true
 }
